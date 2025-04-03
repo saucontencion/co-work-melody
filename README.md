@@ -10,4 +10,5 @@
 - aqui estoy argentina?
 
 ## TODO
--[o] agregar issues a github para el miercoles
+-[✔] agregar issues a github para el miercoles
+-[] agregar ... a github para el viernes

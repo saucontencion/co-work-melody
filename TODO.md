@@ -1,20 +1,32 @@
 # 📌 TODO List - Proyecto Web con Vite
 
 ## 🏗️ Configuración Inicial
-- [ ] Inicializar el repositorio con `git init`.
-- [ ] Crear el archivo `.gitignore` y agregar configuraciones estándar.
-- [ ] Configurar el `package.json` con los scripts necesarios.
-- [ ] Instalar Vite con `npm create vite@latest my-project`.
-- [ ] Elegir y configurar el framework (React, Vue, Svelte, etc.).
-- [ ] Instalar las dependencias esenciales (`react`, `react-router-dom`, etc.).
-- [ ] Crear estructura básica de carpetas (`src/`, `public/`, etc.).
-- [ ] Configurar alias en `vite.config.ts`.
+- [✔] Inicializar el repositorio con `git init`.
+- [✔] Crear el archivo `.gitignore` y agregar configuraciones estándar.
+- [✔] Configurar el `package.json` con los scripts necesarios.
+- [✔] Instalar Vite con `npm create vite@latest my-project`.
+- [✔] Elegir y configurar el framework (React, Vue, Svelte, etc.).
+- [✔] Instalar las dependencias esenciales (`react`, `react-router-dom`, etc.).
+- [✔] Crear estructura básica de carpetas (`src/`, `public/`, etc.).
+- [✔] Configurar alias en `vite.config.ts`.
 
 ## 🎨 Estilos y UI
-- [ ] Elegir sistema de estilos (TailwindCSS, SCSS, CSS Modules, etc.).
-- [ ] Configurar TailwindCSS si es necesario.
-- [ ] Crear variables de diseño globales.
-- [ ] Definir componentes reutilizables (botones, modales, etc.).
+- [✔] Elegir sistema de estilos (TailwindCSS, CSS.).
+- [✔] Configurar TailwindCSS si es necesario.
+- [o] Definir componentes reutilizables (botones, modales, etc.).
+    - [o] Barra de Navegación (Navbar) `Lisette
+    - [] Sección Principal (Hero)
+    - [] Sección "No estás sol@" (dontAlone)
+    - [] Sección de Reconocimientos (recognitions)
+    - [] Sección "Tu empresa también puede decir Aquí Estoy" (business-support)
+    - [] Sección "Reporte de Impacto 2024" (report)
+    - [] Sección "Nuestros Principales Sponsors" (sponsors)
+    - [] Sección "Mira nuestra TEDx" (TEDx)
+    - [] Sección "¿Te gustaría ser acompañante?(become-volunteer)"
+    - [] Sección de Preguntas Frecuentes (FAQ)
+    - [] Sección "Equipo Ejecutivo" y "Board of Advisors" (team-board)
+    - [] Sección de Contacto (contacts)
+    - [] Pie de Página (Footer)
 - [ ] Implementar un sistema de temas (modo claro/oscuro).
 
 ## 🔄 Funcionalidades Básicas
